@@ -42,7 +42,5 @@ I'm Aamir, and I am a passionate Information Technology engineer from India. Wit
 
 ### 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aamirxshaikh&show_icons=true&theme=gruvbox" alt="Aamir's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=aamirxshaikh&theme=gruvbox&border_radius=4.5" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=aamirxshaikh&show_icons=true&theme=gruvbox" alt="Aamir's GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=aamirxshaikh&theme=gruvbox&border_radius=4.5" alt="GitHub Streak" />
