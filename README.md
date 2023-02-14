@@ -1,9 +1,7 @@
 
 # 👨‍💻 Aamir Shaikh
 
-**`Driven tech professional (Developer)`**
-
-**`Specializing in the MERN Stack. Passionate about Open-source, Cloud, and DevOps.`**
+**`Driven tech professional`**
 
 <!--
 **aamirxshaikh/aamirxshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
